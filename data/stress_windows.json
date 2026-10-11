@@ -1,0 +1,22 @@
+{
+  "DotCom_2000_2003": {
+    "start": "2000-09-01",
+    "end": "2003-03-31",
+    "description": "Dot-com bust / 2000-2003 equity bear market"
+  },
+  "GFC": {
+    "start": "2008-09-15",
+    "end": "2009-06-30",
+    "description": "Global Financial Crisis"
+  },
+  "COVID": {
+    "start": "2020-02-15",
+    "end": "2020-05-31",
+    "description": "COVID-19 market shock"
+  },
+  "Rate_Hikes_2022": {
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "description": "2022 rate-hike regime"
+  }
+}

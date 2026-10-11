@@ -1,0 +1,24 @@
+# Tail Risk Adequacy
+# Python dependencies. Developed on Python 3.13; Python 3.11+ recommended.
+# Install with:  pip install -r requirements.txt
+
+# --- Core scientific stack ---
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+
+# --- Econometrics / risk models ---
+statsmodels>=0.14      # Ljung-Box, Engle ARCH-LM       (notebook 02)
+arch>=7.0              # GARCH(1,1)                      (notebook 05) - developed on 8.0
+scikit-learn>=1.4      # GradientBoostingClassifier      (notebook 07) - developed on 1.7
+
+# --- Data download: ONLY needed to rebuild data/ from scratch in notebook 01.
+# --- If the data/ folder is included (it is), these are NOT required.    ---
+yfinance>=0.2.40
+pandas-datareader>=0.10
+requests>=2.31
+
+# --- Running the notebooks ---
+jupyterlab>=4.0
+ipykernel>=6.29

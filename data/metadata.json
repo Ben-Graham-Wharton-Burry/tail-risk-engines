@@ -1,0 +1,14 @@
+{
+  "START": "1990-01-01",
+  "END": "2026-04-01",
+  "portfolio": "Port_FO",
+  "weights": {
+    "SP500_ret": 0.4,
+    "VBMFX_ret": 0.25,
+    "REIT_ret": 0.15,
+    "GLD_ret": 0.1,
+    "Cash_ret": 0.1
+  },
+  "sample_start": "1996-05-14",
+  "sample_end": "2026-04-01"
+}

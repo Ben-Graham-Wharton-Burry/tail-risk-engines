@@ -1,0 +1,3 @@
+variant,avg weight,ann vol %,VaR99 %,MaxDD %,Sharpe,Sortino,CDaR95 %,%TuW,CAGR %
+Static FO,1.0,11.2,1.944,39.99,0.478,0.67,24.25,88.0,7.24
+Responsive (vol-target 6%),0.647,5.52,0.905,16.1,0.481,0.667,11.24,89.9,4.88

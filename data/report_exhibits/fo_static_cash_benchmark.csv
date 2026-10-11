@@ -1,0 +1,4 @@
+benchmark,w_FO,CAGR %,ann vol %,Sharpe,MaxDD %,CDaR95 %
+Responsive (6% target),,4.88,5.52,0.481,16.1,11.24
+Static cash blend - matched MDD,0.4,4.14,4.48,0.423,16.82,9.18
+Static cash blend - matched vol,0.493,4.65,5.52,0.441,20.78,11.58

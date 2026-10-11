@@ -1,0 +1,2 @@
+Portfolio,N test,N actual exc,N flagged,TP (correct flags),FP,FN (missed exc),Precision,Recall,Kupiec p,Christ p_ind,Christ p_cc,Threshold
+Port_FO,3834,38,38,2,36,36,0.05263157894736842,0.05263157894736842,0.9559250752800116,1.1924269349705696e-09,9.308097292937134e-09,0.2845578623937567
